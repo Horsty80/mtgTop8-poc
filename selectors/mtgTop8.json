@@ -1,0 +1,15 @@
+{
+  "formatSelect": "select[name=format]",
+  "selectValues": {
+    "edh": "EDH"
+  },
+  "checkboxLands": "input[type=checkbox][name=lands]",
+  "submitButton": "input[value=GO]",
+  "title": "div[class=w_title]",
+  "cookieBanner": "div#cookie_window button",
+  "results": {
+    "card": "tr[class*=_tr]",
+    "cardPanel": "div#card_div"
+  },
+  "nextButton": "div[class*=Nav_PN]"
+}
